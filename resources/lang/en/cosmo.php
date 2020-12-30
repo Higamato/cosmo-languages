@@ -38,7 +38,7 @@ return [
         'logout' => 'Logout',
         'login' => 'Login',
 
-        'welcome_back' => 'Welcome back :username',
+        'welcome_back' => 'Welcome back, :username',
         'notifications' => 'Notifications'
     ],
 
@@ -70,7 +70,10 @@ return [
             'players_online' => 'Players Online',
             'join_servers' => 'Join Our <span>Servers</span>',
             'join_discord' => 'Join Our <span>Discord</span>',
-        ]
+        ],
+
+        'confirmation' => 'Are you sure?',
+        'cancel' => 'Cancel',
     ],
 
     'store' => [
@@ -106,7 +109,7 @@ return [
             'package' => 'Package',
         ],
 
-        'select_server' => 'Select Server',
+        'select_server' => 'Connect',
 
         'success' => [
             'success' => 'Payment Successful!',
@@ -157,7 +160,7 @@ return [
             'delete_thread'=> 'Delete Thread',
 
             'create_thread' => 'Create Thread',
-            'update_thread' => 'Create Thread',
+            'update_thread' => 'Update Thread',
             'thread_title' => 'Thread Title',
             'post_reply' => 'Post',
 
@@ -487,6 +490,36 @@ return [
             'sale_end-date' => 'Expiration Date',
 
             'update_terms' => 'Update Terms Of Service',
+
+            'disable_maintenance' => 'Disable Maintenance',
+            'enable_maintenance' => 'Enable Maintenance',
+
+            'reinstall' => 'Reinstall',
+            'reinstall_confirm' => 'Are you sure you want to reinstall the application?',
+
+            'toggle_dark_mode' => 'Toggle Dark Mode',
+
+            'yearly_sales' => 'Yearly Sales',
+            'monthly_sales' => 'Monthly Sales',
+
+            'stats' => [
+                'earnings' => [
+                    'total' => 'Total Earnings',
+                    'monthly' => 'Monthly Earnings',
+                    'weekly' => 'Weekly Earnings',
+                    'daily' => 'Daily Earnings',
+                ],
+                'total_packages' => 'Total Packages',
+                'total_purchases' => 'Total Purchases',
+                'forum' => [
+                    'categories' => 'Total Categories',
+                    'boards' => 'Total Boards',
+                    'threads' => 'Total Threads',
+                ],
+                'users' => 'Total Users',
+                'roles' => 'Total Roles',
+                'tickets' => 'Open Support Tickets',
+            ],
         ],
 
         'save_configurations' => 'Save Configurations',

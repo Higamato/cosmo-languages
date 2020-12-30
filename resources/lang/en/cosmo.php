@@ -122,7 +122,7 @@ return [
 
         'sale' => [
             'time-left' => 'Time left: :time',
-            'info' => '<b>Hurry</b> and gran our products on sale! <span>:percentage% OFF</span>',
+            'info' => '<b>Hurry</b> and grab our products on sale! <span>:percentage% OFF</span>',
             'go_to_store' => 'GO TO STORE',
         ],
     ],
@@ -201,7 +201,7 @@ return [
             'biography' => 'Biography',
             'signature' => 'Signature',
             'sync_steam' => 'Sync with Steam',
-            'sync_discord' => 'Sync with discord',
+            'sync_discord' => 'Sync with Discord',
         ],
 
         'achievements' => [

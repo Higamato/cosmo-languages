@@ -172,7 +172,8 @@ return [
         ],
         'posts' => [
             'editing_post' => 'Editing Post',
-            'update_post' => 'Update Post'
+            'update_post' => 'Update Post',
+            'delete_post' => 'Delete Post'
         ]
     ],
 
@@ -201,7 +202,7 @@ return [
             'biography' => 'Biography',
             'signature' => 'Signature',
             'sync_steam' => 'Sync with Steam',
-            'sync_discord' => 'Sync with Discord',
+            'sync_discord' => 'Sync with discord',
         ],
 
         'achievements' => [

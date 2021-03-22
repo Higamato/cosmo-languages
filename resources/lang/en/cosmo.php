@@ -28,6 +28,11 @@ return [
  **/
 
 // TRANSLATIONS START //
+    'errors' => [
+        'no_api_key' => 'Steam API key was not set',
+        'failed' => 'Failed to retrieve server info'
+    ],
+
     'navbar' => [
         'profile' => 'Profile',
         'visit_profile' => 'Visit and update your profile!',
@@ -110,6 +115,7 @@ return [
         ],
 
         'select_server' => 'Connect',
+        'store_select_server' => 'Select',
 
         'success' => [
             'success' => 'Payment Successful!',

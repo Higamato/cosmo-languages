@@ -28,6 +28,15 @@ return [
  **/
 
 // TRANSLATIONS START //
+
+    // Dark Rewrite
+    'dxrk' => [
+        'steam_title' => 'Our Steam Group Statistics',
+        'steam_desc' => 'Click :here to join our ever-growing Steam Group!',
+        'join_server' => 'Join Server',
+    ],
+
+
     'errors' => [
         'no_api_key' => 'Steam API key was not set',
         'failed' => 'Failed to retrieve server info'
@@ -105,7 +114,7 @@ return [
         'total' => 'Total: :sign:price',
         'servers' => 'Servers',
 
-        'monthly_goal' => 'Monthly Doantion Goal',
+        'monthly_goal' => 'Monthly Donation Goal',
         'table' => [
             'top_donations' => 'Top Donations',
             'recent_donations' => 'Recent Donations',
@@ -114,8 +123,8 @@ return [
             'package' => 'Package',
         ],
 
-        'select_server' => 'Connect',
-        'store_select_server' => 'Select',
+        'select_server' => 'Browse',
+        'store_select_server' => 'Browse',
 
         'success' => [
             'success' => 'Payment Successful!',
@@ -124,6 +133,11 @@ return [
         'fail' => [
             'fail' => 'Payment Failed!',
             'msg' => 'Payment failed.... please try again later',
+        ],
+
+        'cancel' => [
+            'cancel' => 'Payment Canceled!',
+            'msg' => 'Your payment has successfully been canceled'
         ],
 
         'sale' => [

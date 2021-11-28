@@ -59,7 +59,7 @@ return [
 
 
     'core' => [
-        'home' => 'Ev',
+        'home' => 'Anasayfa',
         'staff' => 'Yetkili',
         'threads' => 'Konular',
         'browse_threads' => 'Bütün Konuları Görüntüle',
@@ -203,7 +203,7 @@ return [
         'no_users-found' => 'Kullanıcı bulunamadı',
 
         'pills' => [
-            'home'=> 'Ev',
+            'home'=> 'Anasayfa',
             'comments' => 'Yorumlar',
             'threads' => 'Konular',
             'achievements' => 'Başarımlar',

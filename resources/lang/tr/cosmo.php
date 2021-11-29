@@ -108,8 +108,8 @@ return [
         'checkout_with-paypal' => 'Paypal Ile Öde',
 
         'complete_purchase' => 'Alışverişini tamamla',
-        'checking_out-package' => 'You are checking out :package', //"You are checking out package: VIP"
-        'package_price' => 'Package Price',
+        'checking_out-package' => ':package paketini alıyorusun', //"You are checking out package: VIP"
+        'package_price' => 'Paket Fiyatı',
 
         'sub-total' => 'Ara Toplam',
         'total' => 'Toplam: :sign:price',
